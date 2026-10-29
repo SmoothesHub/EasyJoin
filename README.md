@@ -1,7 +1,7 @@
 <h1 align="center">EasyJoin</h1>
 
 <p align="center">
-  <a href="https://github.com/SmoothesHub/I-HATE-ALIENS/releases/latest">
+  <a href="https://github.com/SmoothesHub/EasyJoin/releases/tag/EasyJoin-V1">
     <img src="https://img.shields.io/badge/Latest_Release-1.0.0-blue">
   </a>
   <a href="https://www.youtube.com/@smootheofficial">
