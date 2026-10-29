@@ -17,5 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="./I-HATE-ALIENS.png" alt="I HATE ALIENS Preview" width="650">
+  <img src="./EasyJoin.png" alt="EasyJoin Gorilla Tag Mod Preview" width="650">
 </p>
+
